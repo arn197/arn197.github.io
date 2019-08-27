@@ -16,7 +16,7 @@ description: >
 hide_description: true
 
 # TODO
-image: /assets/img/blog/hydejack-8.png
+image: /assets/icons/icon.jpg
 ---
 
 The "Best Jekyll Theme by a Mile".
