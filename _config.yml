@@ -52,7 +52,7 @@ menu:
   - title:             About
     url:               /about/
   - title:             Resume
-    url:               /Resume.pdf
+    url:               /resume
   - title:             Work experience
     url:               /xp/
   - title:             Projects
