@@ -54,7 +54,7 @@ menu:
   - title:             Resume
     url:               /resume
   - title:             Work experience
-    url:               /xp/
+    url:               /xp
   - title:             Projects
     url:               /projects
   - title:             Teaching experience
