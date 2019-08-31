@@ -14,4 +14,4 @@ title: Teaching Experience
 	
 	Primarily targeted towards freshmen, this course taught the basics of a broad range of a topics, including but not limited to, web development, bash scripting, basics of networks and python programming. Responsibilites included creation and evaluation of assignments, evaluation of exam papers as well as hosting lab sessions.
 	
-	<img src="./assets/img/it.png" alt="IT Workshop" width="500" height="200"/>
+	![IT](./assets/img/it.png){:height="200" width="500"}
