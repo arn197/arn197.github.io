@@ -7,7 +7,8 @@ title: Teaching Experience
 	
 	A course that taught fundamentals of Computer Vision, geared mainly towards PhD, MS and undergraduate research students. Responsibilities included creation and evaluation of assignments, evaluation of exams as well as mentoring several groups of students for the course project.
 	
-	<img src="./assets/img/CV.jpg" alt="Computer Vision" width="500" height="200"/>
+	![CV](./assets/img/CV.jpg){:height="200" width="500"}
+	<!-- <img src="./assets/img/CV.jpg" alt="Computer Vision" width="500" height="200"/> -->
 	
 2. **Teaching assistant for Introduction to Information Technology - Fall 2018**
 	
