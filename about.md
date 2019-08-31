@@ -15,4 +15,4 @@ title: Hi there!!
 	- SQL, MongoDB
 * I am currently actively looking for software development internships for summer 2020, so if you have a position available or just want to say hi, my inbox is always open.
 
-<button onMouseOver="this.style.color='#0F0'" onMouseOut="this.style.color='#00F'" onclick="window.location.href = 'mailto:aaronjacobmscs@gmail.com';" style="border: none">Contact Me</button>
+<button onMouseOver="this.style.background-color='#FFF';this.style.color='#000'" onMouseOut="this.style.background-color='#000';this.style.color='#FFF'" onclick="window.location.href = 'mailto:aaronjacobmscs@gmail.com';" style="border: none;color: white">Contact Me</button>
