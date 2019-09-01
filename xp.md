@@ -17,4 +17,4 @@ title: Work experience
 	* Built a mobile app from scratch for their web-based services using React Native, Fetch API and Android Studio.
 	* Currently live on the respective app stores with more than 10,000 downloads.
 	
-	![arn](./assets/img/froogal.png){:height="250" width="400"}
+	![arn](./assets/img/froogal.png){:height="200" width="400"}
