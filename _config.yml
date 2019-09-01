@@ -107,16 +107,6 @@ defaults:
     values:
       seo:
         type:          WebPage
-  - scope:
-      type:            featured_categories
-    values:
-      seo:
-        type:          WebPage
-  - scope:
-      type:            featured_tags
-    values:
-      seo:
-        type:          WebPage
 
 
 # 3rd Party Integrations
@@ -219,7 +209,7 @@ hydejack:
 # ========================================================================================
 
 collections:
-  featured_categories:
+  about:
     permalink:         /:name/
     output:            true
 
