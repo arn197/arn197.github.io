@@ -4,7 +4,7 @@
 author1:
   # Replace <...> with your own (remove the < >)
   name:              Aaron Jacob
-  email:             <aaronjacobmscs@gmail.com>
+  email:             <aaronjv@bu.edu>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -28,7 +28,7 @@ author1:
   social:
     linkedin:        aaron-jacob-7b65b7138
     # download:        <url>
-    email:           <aaronjacobmscs@gmail.com>
+    email:           <aaronjv@bu.edu>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
