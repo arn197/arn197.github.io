@@ -9,7 +9,7 @@ title: Projects
 	* Applied proposed method to state-of-the-art semantic segmentation models PSPNet and Deeplab-v3+, showing a 10% accuracy trade-off for large improvements in inference time and almost 20% reduction in memory usage
 	* Developed using PyTorch and Tensorflow in Python
 	
-	![CV](./assets/img/CV.jpg){:height="200" width="500"}
+	<!-- ![CV](./assets/img/CV.jpg){:height="200" width="500"} -->
 	<!-- <img src="./assets/img/CV.jpg" alt="Computer Vision" width="500" height="200"/> -->
 	
 2. **Distributed TicTacToe and chat room**
@@ -17,7 +17,7 @@ title: Projects
 	* Developed a distributed TicTacToe game, in a client-server setup using the Java RMI protocol
 	* Parallelized the game server to handle multiple games, along with a chat server for multiple clients/client groups
 
-	![IT](./assets/img/it.png){:height="200" width="500"}
+	<!-- ![IT](./assets/img/it.png){:height="200" width="500"} -->
 
 3. **AngelSafe**
 	
@@ -25,7 +25,7 @@ title: Projects
 	* Secured first place in the Code.Fun.Do hackathon online round organized by Microsoft India in Hyderabad
 	* Built using the MEAN Stack, consisting of MongoDB, Express.js, Node.js and Angular.js
 
-	![IT](./assets/img/it.png){:height="200" width="500"}
+	<!-- ![IT](./assets/img/it.png){:height="200" width="500"} -->
 
 4. **Music Genre Classification**
 	
@@ -34,7 +34,7 @@ title: Projects
 	* Implementation was done using Python, Keras and scikit-learn.
 	* Neural Network approach gave better overall accuracy than the results published in the paper this project was based on.
 
-	![IT](./assets/img/it.png){:height="200" width="500"}
+	<!-- ![IT](./assets/img/it.png){:height="200" width="500"} -->
 
 5. **Seeing the Arrow of Time**
 	
@@ -42,20 +42,20 @@ title: Projects
 	* Method was based on analyzing patterns of motion for temporal asymmetries, captured using a SIFT-like descriptor.
 	* Implemented using Python and Numpy
 
-	![IT](./assets/img/it.png){:height="200" width="500"}
+	<!-- ![IT](./assets/img/it.png){:height="200" width="500"} -->
 
 6. **Mini SQL Engine**
 	
 	* Built an SQL engine in Python to parse and execute SQL commands, with relevant error handling
 
-	![IT](./assets/img/it.png){:height="200" width="500"}
+	<!-- ![IT](./assets/img/it.png){:height="200" width="500"} -->
 
 7. **Model Compression Project in collaboration with Microsoft Research India**
 	
 	* Involved compression of models(for video and image analysis related tasks), exporting them to mobile and testing performance, accuracy and hardware load
 	* Built an Android app using Tensorflow Lite to run compressed models for detecting and processing actions and facial expressions of drivers while driving.
 
-	![IT](./assets/img/it.png){:height="200" width="500"}
+	<!-- ![IT](./assets/img/it.png){:height="200" width="500"} -->
 
 8. **Privacy in Online Social Media**
 	
@@ -63,7 +63,7 @@ title: Projects
 	* Data of consenting participants was collected using publicly available API's and Selenium
 	* Analysis of data was done to generate statistics like daily active hours, frequently referenced topics, frequently used keywords, emotions in speech, closest friends and so on.
 
-	![IT](./assets/img/it.png){:height="200" width="500"}
+	<!-- ![IT](./assets/img/it.png){:height="200" width="500"} -->
 
 9. **Game Development**
 	
@@ -71,7 +71,7 @@ title: Projects
 	* Developed variations of the popular games BrickBreaker and Bloxorz in 2D and 3D respectively using OpenGL
 	* Developed an Aquarium model using WebGL
 
-	![IT](./assets/img/it.png){:height="200" width="500"}
+	<!-- ![IT](./assets/img/it.png){:height="200" width="500"} -->
 
 10. **Seeing the Arrow of Time**
 	
@@ -79,4 +79,4 @@ title: Projects
 	* Method was based on analyzing patterns of motion for temporal asymmetries, captured using a SIFT-like descriptor.
 	* Implemented using Python and Numpy
 
-	![IT](./assets/img/it.png){:height="200" width="500"}
+	<!-- ![IT](./assets/img/it.png){:height="200" width="500"} -->
