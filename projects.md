@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching Experience
+title: Projects
 ---
 
 1. **Variable Quantized Ensemble Networks**
