@@ -54,6 +54,8 @@ menu:
     url:               /xp
   - title:             Teaching experience
     url:               /teachingxp
+  - title:             projects
+    url:               /projects
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
